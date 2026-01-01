@@ -1,0 +1,150 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Empowering Your Business with Smart IT Solutions",
+    "subtitle": "ByteKey delivers innovative technology solutions for tracking, monitoring, and communications that drive your business forward.",
+    "cta": "Explore Services",
+    "ctaSecondary": "Get in Touch",
+    "scroll": "Scroll"
+  },
+  "about": {
+    "sectionTitle": "About Us",
+    "title": "Who We Are",
+    "intro": "ByteKey Communications and IT Co. is a leading provider of comprehensive technology solutions. We specialize in delivering innovative IT services, tracking systems, monitoring solutions, and communication technologies that help businesses operate more efficiently and effectively.",
+    "readMore": "Learn More",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To empower businesses with cutting-edge technology solutions that enhance operational efficiency, improve communication, and drive sustainable growth."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be the region's most trusted technology partner, known for innovation, reliability, and exceptional service delivery."
+    },
+    "values": {
+      "sectionTitle": "Our Values",
+      "title": "What Drives Us",
+      "items": {
+        "innovation": {
+          "title": "Innovation",
+          "description": "Continuously exploring new technologies and approaches to deliver better solutions."
+        },
+        "reliability": {
+          "title": "Reliability",
+          "description": "Building trust through consistent, dependable service and support."
+        },
+        "excellence": {
+          "title": "Excellence",
+          "description": "Striving for the highest standards in everything we do."
+        },
+        "partnership": {
+          "title": "Partnership",
+          "description": "Working closely with clients to understand and meet their unique needs."
+        }
+      }
+    }
+  },
+  "services": {
+    "sectionTitle": "Our Services",
+    "title": "What We Offer",
+    "subtitle": "Comprehensive technology solutions tailored to your business needs.",
+    "scrollToExplore": "Scroll to explore",
+    "learnMore": "Learn More",
+    "viewAll": "View All Services",
+    "features": "Key Features",
+    "getStarted": "Get Started",
+    "items": {
+      "itSolutions": {
+        "title": "IT Solutions",
+        "short": "Complete IT infrastructure and software solutions for modern businesses.",
+        "description": "We provide end-to-end IT solutions including infrastructure design, software development, cloud services, and system integration to help your business leverage technology effectively.",
+        "features": ["Custom Software Development", "Cloud Infrastructure", "System Integration", "IT Consulting", "Network Solutions"]
+      },
+      "tracking": {
+        "title": "Tracking Systems",
+        "short": "Advanced GPS and asset tracking for fleet and inventory management.",
+        "description": "Our tracking systems provide real-time visibility into your assets, vehicles, and shipments. Monitor locations, optimize routes, and improve operational efficiency with our comprehensive tracking solutions.",
+        "features": ["Real-time GPS Tracking", "Fleet Management", "Asset Monitoring", "Route Optimization", "Geofencing Alerts"]
+      },
+      "monitoring": {
+        "title": "Monitoring Solutions",
+        "short": "24/7 monitoring systems for infrastructure, security, and performance.",
+        "description": "Stay informed with our advanced monitoring solutions. We offer comprehensive monitoring services for IT infrastructure, security systems, and business operations to ensure everything runs smoothly.",
+        "features": ["Infrastructure Monitoring", "Security Surveillance", "Performance Analytics", "Automated Alerts", "Custom Dashboards"]
+      },
+      "communications": {
+        "title": "Communications",
+        "short": "Enterprise communication systems including VoIP and unified messaging.",
+        "description": "Transform how your organization communicates with our enterprise communication solutions. From VoIP systems to unified communications platforms, we help you stay connected.",
+        "features": ["VoIP Phone Systems", "Unified Communications", "Video Conferencing", "Team Collaboration Tools", "Call Center Solutions"]
+      },
+      "security": {
+        "title": "Security Systems",
+        "short": "Comprehensive security solutions for physical and digital protection.",
+        "description": "Protect your business with our integrated security solutions. We offer physical security systems, cybersecurity services, and access control systems to safeguard your assets.",
+        "features": ["CCTV Surveillance", "Access Control", "Cybersecurity Services", "Alarm Systems", "Security Consulting"]
+      },
+      "support": {
+        "title": "Technical Support",
+        "short": "Round-the-clock technical support and maintenance services.",
+        "description": "Our dedicated support team ensures your systems run smoothly. We provide proactive maintenance, rapid incident response, and ongoing technical assistance.",
+        "features": ["24/7 Help Desk", "Remote Support", "On-site Services", "Preventive Maintenance", "Training Programs"]
+      }
+    }
+  },
+  "contact": {
+    "sectionTitle": "Contact",
+    "title": "Get in Touch",
+    "subtitle": "Have a question or ready to start your project? We'd love to hear from you.",
+    "form": {
+      "title": "Send us a Message",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "company": "Company Name",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "success": "Thank you! Your message has been sent successfully. We'll get back to you soon."
+    },
+    "info": {
+      "title": "Contact Information",
+      "description": "Reach out to us through any of the following channels. Our team is ready to assist you.",
+      "address": {
+        "label": "Address",
+        "value": "Riyadh, Saudi Arabia"
+      },
+      "phone": {
+        "label": "Phone",
+        "value": "+966 XX XXX XXXX"
+      },
+      "email": {
+        "label": "Email",
+        "value": "info@bytekey.sa"
+      },
+      "hours": {
+        "label": "Working Hours",
+        "value": "Sun - Thu: 9:00 AM - 6:00 PM"
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Transform Your Business?",
+    "subtitle": "Let's discuss how our technology solutions can help you achieve your goals.",
+    "button": "Contact Us Today"
+  },
+  "footer": {
+    "description": "ByteKey Communications and IT Co. delivers innovative technology solutions for tracking, monitoring, and communications.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contactUs": "Contact Us",
+    "copyright": "All rights reserved.",
+    "info": {
+      "crn": "CRN",
+      "trn": "TRN"
+    }
+  }
+}
