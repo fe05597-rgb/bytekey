@@ -96,7 +96,7 @@ function Home() {
         </div>
       </AnimatedSection>
 
-      <div className="divider"></div>
+      <div className="divider"></div> 
 
       {/* Services Preview */}
       <AnimatedSection className={styles.servicesSection}>
