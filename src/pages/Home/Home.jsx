@@ -106,9 +106,8 @@ function Home() {
           <motion.p className={styles.sectionSubtitle} variants={fadeInUp}>{t('services.subtitle')}</motion.p>
 
           <motion.div className={styles.servicesGrid} variants={fadeInUp}>
-            {services.map((service, index) => (
+            {services.map((service) => (
               <Link to="/services" key={service.key} className={styles.serviceCard}>
-                <span className={styles.serviceNumber}>{String(index + 1).padStart(2, '0')}</span>
                 <h3 className={styles.serviceTitle}>{t(`services.items.${service.key}.title`)}</h3>
                 <p className={styles.serviceDesc}>{t(`services.items.${service.key}.short`)}</p>
                 <span className={styles.serviceLink}>{t('services.learnMore')} →</span>
