@@ -60,12 +60,10 @@ function About() {
         <div className="container">
           <motion.div className={styles.missionGrid} variants={fadeInUp}>
             <div className={styles.missionCard}>
-              <span className={styles.cardNumber}>01</span>
               <h3>{t('about.mission.title')}</h3>
               <p>{t('about.mission.description')}</p>
             </div>
             <div className={styles.missionCard}>
-              <span className={styles.cardNumber}>02</span>
               <h3>{t('about.vision.title')}</h3>
               <p>{t('about.vision.description')}</p>
             </div>
@@ -82,9 +80,8 @@ function About() {
           <motion.h2 className={styles.sectionTitle} variants={fadeInUp}>{t('about.values.title')}</motion.h2>
           
           <motion.div className={styles.valuesGrid} variants={fadeInUp}>
-            {values.map((value, index) => (
+            {values.map((value) => (
               <div key={value} className={styles.valueCard}>
-                <span className={styles.valueNumber}>{String(index + 1).padStart(2, '0')}</span>
                 <h4>{t(`about.values.items.${value}.title`)}</h4>
                 <p>{t(`about.values.items.${value}.description`)}</p>
               </div>
